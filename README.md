@@ -41,6 +41,6 @@ The functions and methods used in this problem:
 ---
 
 Thank you for reading!  
-To see the main Python notebook for Programming Assignment 3, click this link: https://github.com/elija-png/ECE2112_PA3/blob/main/ECE2112_PA3.ipynb
+To see the main Python notebook for Programming Assignment 3, click this link: [https://github.com/elija-png/ECE2112_PA3/blob/main/ECE2112_PA3.ipynb](https://github.com/elija-png/ECE-2112-PA3/blob/main/ECE2112_PA3.ipynb)
 
 ---
