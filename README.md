@@ -1,7 +1,7 @@
 # ECE-2112-PA3
 **Made by: Elijah Theodore P. Rojo | 2ECE-D**
 
-This repository contains the Programming Assignment 3 for our course "Advanced Computer Programming" for S.Y. 2026-2027[cite: 3]. This project covers Pandas DataFrames slicing, indexing, and filtering operations using the `cars.csv` dataset.
+This repository contains the Programming Assignment 3 for our course "Advanced Computer Programming" for S.Y. 2026-2027. This project covers Pandas DataFrames slicing, indexing, and filtering operations using the `cars.csv` dataset.
 
 ---
 
